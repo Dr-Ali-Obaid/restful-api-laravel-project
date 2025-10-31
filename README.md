@@ -39,8 +39,7 @@
 - Policies وResource Classes
 - Eloquent ORM
 - MySQL
-- Composer & NPM
-- Vite + Node.js (لتجميع ملفات CSS وJS إذا أردت إضافة واجهة لاحقًا)
+- Composer 
 
 ---
 
@@ -48,8 +47,6 @@
 - PHP >= 8.1
 - Composer
 - MySQL
-- Node.js >= 18
-- NPM (مرفق مع Node.js)
 
 ---
 
